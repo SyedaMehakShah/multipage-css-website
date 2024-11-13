@@ -1,5 +1,3 @@
-// /src/app/about/page.tsx
-
 import Link from "next/link";
 import "../../styles/about.css";
 
@@ -80,7 +78,6 @@ export default function About() {
         <h2>Meet Our Team</h2>
         <div className="team">
           <div className="teamMember">
-          
             <h3>Jane Doe</h3>
             <p>Founder &amp; Head Chef</p>
             <p>
@@ -90,7 +87,6 @@ export default function About() {
             </p>
           </div>
           <div className="teamMember">
-            
             <h3>John Smith</h3>
             <p>Head Baker</p>
             <p>
@@ -100,7 +96,6 @@ export default function About() {
             </p>
           </div>
           <div className="teamMember">
-           
             <h3>Alice Green</h3>
             <p>Cake Decorator</p>
             <p>
@@ -118,7 +113,7 @@ export default function About() {
           <div className="testimonials">
             <p>
               &quot;Dreamy Cakes made our wedding day even more special. The cake was
-              absolutely stunning and delicious! We couldn&amp;t have asked for
+              absolutely stunning and delicious! We couldn&apos;t have asked for
               anything more.&quot; - Sarah and Mike
             </p>
           </div>
@@ -148,3 +143,8 @@ export default function About() {
     </div>
   );
 }
+
+    
+      
+        
+     
