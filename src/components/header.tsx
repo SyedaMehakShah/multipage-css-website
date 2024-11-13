@@ -8,7 +8,7 @@ export default function Header() {
     <div>
       <header className="header">
         <div className="header-inner">
-          <h1 className="header-title">Dreamy Cake's</h1>
+          <h1 className="header-title">Dreamy Cake&apos;s</h1>
 
           <ul className="nav">
             <li className="nav-item nav-item:hover">
