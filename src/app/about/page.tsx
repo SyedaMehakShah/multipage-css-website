@@ -21,7 +21,7 @@ export default function About() {
         <p>
           Founded by pastry chef Jane Doe in 2010, Dreamy Cakes started with a
           passion for baking and a dream to bring the highest quality cakes to
-          the market. Over the years, we've expanded our menu, perfected our
+          the market. Over the years, we&apos;ve expanded our menu, perfected our
           recipes, and served thousands of happy customers, always with a focus
           on innovation and the freshest ingredients.
         </p>
@@ -31,7 +31,7 @@ export default function About() {
         <h2>Our Mission</h2>
         <p>
           Our mission is simple: to provide our customers with the most
-          beautiful and delicious cakes that enhance every moment. Whether it's
+          beautiful and delicious cakes that enhance every moment. Whether it&apos;s
           a simple family gathering or a grand wedding, we want our cakes to be
           a part of your memories, bringing smiles and joy with every bite.
         </p>
@@ -82,7 +82,7 @@ export default function About() {
           <div className="teamMember">
           
             <h3>Jane Doe</h3>
-            <p>Founder & Head Chef</p>
+            <p>Founder &amp; Head Chef</p>
             <p>
               Jane is the heart and soul of Dreamy Cakes. With over 15 years of
               experience in cake baking and design, she leads our team with
@@ -118,15 +118,15 @@ export default function About() {
           <div className="testimonials">
             <p>
               "Dreamy Cakes made our wedding day even more special. The cake was
-              absolutely stunning and delicious! We couldn't have asked for
-              anything more." - Sarah and Mike
+              absolutely stunning and delicious! We couldn&amp;t have asked for
+              anything more.&quot; - Sarah and Mike
             </p>
           </div>
           <div className="testimonials">
             <p>
               "We ordered a custom birthday cake for my daughter, and it was
               perfect! The team really listened to what we wanted, and the
-              design exceeded our expectations. Thank you, Dreamy Cakes!" - Emma
+              design exceeded our expectations. Thank you, Dreamy Cakes!&quot; - Emma
               L.
             </p>
           </div>
