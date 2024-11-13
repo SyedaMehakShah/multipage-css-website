@@ -1,0 +1,55 @@
+.footer {
+    background-color: #fbcfe8; /* Pink background */
+    color: white;
+    padding: 2rem 0; /* Spacing around the footer */
+}
+
+.footer-container {
+    max-width: 1024px;
+    margin: 0 auto; /* Centers content */
+    text-align: center;
+    padding: 0 1rem; /* Ensures content has some space on smaller screens */
+}
+
+.social-icons {
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+    margin-bottom: 1rem;
+}
+
+.social-icon {
+    color: #c51f88;
+    transition: color 0.3s;
+}
+
+.social-icon:hover {
+    color: #db2777;
+}
+
+.footer-text, .footer-subtext {
+    color: #c51f88;
+}
+
+.footer-text {
+    font-weight: bold;
+    font-size: 1.125rem;
+}
+
+.footer-subtext {
+    margin-top: 0.5rem;
+}
+
+.footer-links {
+    margin-top: 1rem;
+}
+
+.footer-link {
+    color: #c51f88;
+    margin: 0 0.5rem;
+    transition: color 0.3s;
+}
+
+.footer-link:hover {
+    color: #db2777;
+}
