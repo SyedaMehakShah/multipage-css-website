@@ -117,14 +117,14 @@ export default function About() {
         <div className="testimonials">
           <div className="testimonials">
             <p>
-              "Dreamy Cakes made our wedding day even more special. The cake was
+              &quot;Dreamy Cakes made our wedding day even more special. The cake was
               absolutely stunning and delicious! We couldn&amp;t have asked for
               anything more.&quot; - Sarah and Mike
             </p>
           </div>
           <div className="testimonials">
             <p>
-              "We ordered a custom birthday cake for my daughter, and it was
+              &quot;We ordered a custom birthday cake for my daughter, and it was
               perfect! The team really listened to what we wanted, and the
               design exceeded our expectations. Thank you, Dreamy Cakes!&quot; - Emma
               L.
